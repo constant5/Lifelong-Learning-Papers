@@ -11,11 +11,29 @@ Contributed by Constant Marks.
     <td>&emsp;<a href="#Lifelong-Learning-Models">2.1 Lifelong Learning Models</a></td>
     <td>&ensp;<a href="#placeholder1">2.2 placeholder1</a></td>
 </tr>
-
-<tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#placeholder2">3.1 placeholder2</a></td>
-    <td>&ensp;<a href="#placeholder3">3.2 placeholder3</a></td>
+    <td>&emsp;<a href="#Regularization-Approach">2.3 Regularization Approach</a></td>
+    <td>&ensp;<a href="#Dynamic-Architecture">2.4 Dynamic Architecture</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#Complementary-System-and-Replay">2.5 Complementary System and Replay</a></td>
+    <td>&ensp;<a href="#placeholder"></a></td>
+</tr>
+
+<tr><td colspan="2"><a href="#datasets">3. Datasets</a></td></tr> 
+<tr>
+    <td>&emsp;<a href="#MNIST">3.1 MNIST</a></td>
+    <td>&ensp;<a href="#CUB-200">3.2 CUB-200</a></td>
+</tr>
+<tr>
+    <td>&emsp;<a href="#AudioSet">3.3 AudioSet</a></td>
+    <td>&ensp;<a href="#Core50">3.4 Core50</a></td>
+</tr> 
+
+<tr><td colspan="2"><a href="#applications">4. Applications</a></td></tr> 
+<tr>
+    <td>&emsp;<a href="#placeholder2">4.1 placeholder2</a></td>
+    <td>&ensp;<a href="#placeholder3">4.2 placeholder3</a></td>
 </tr> 
 </table>
 
@@ -38,8 +56,23 @@ Contributed by Constant Marks.
 1. **Selective Experience Replay for Lifelong Learning** arXiv 2018. [paper](https://arxiv.org/pdf/1802.10269.pdf)
 )
 
+### [Regularization Approach](#content)
+
+### [Dynamic Architecture](#content)
+
+### [Complementary System and Replay](#content)
 
 
+
+## [Datasets](#content)
+
+1. **[MNIST](#content)** [dataset](http://yann.lecun.com/exdb/mnist/)
+
+1. **[CUB-200](#content)** [dataset](http://www.vision.caltech.edu/visipedia/CUB-200.html)
+
+1. **[AudioSet](#content)** [dataset](https://research.google.com/audioset/)
+
+1. **[Core50](#content)** [dataset](https://vlomonaco.github.io/core50//)
 
 
 ## [Applications](#content)  
