@@ -12,11 +12,11 @@ Contributed by Constant Marks.
     <td>&emsp;<a href="#Regularization-Approach">2.3 Regularization Approach</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Regularization-Approach-+">2.3 Regularization Approach +</a></td>
-    <td>&ensp;<a href="#Dynamic-Architecture">2.4 Dynamic Architecture</a></td>
+    <td>&emsp;<a href="#Regularization-Approach-+">2.4 Regularization Approach +</a></td>
+    <td>&ensp;<a href="#Dynamic-Architecture">2.5 Dynamic Architecture</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#Complementary-System-and-Replay">2.5 Complementary System and Replay</a></td>
+    <td>&emsp;<a href="#Complementary-System-and-Replay">2.6 Complementary System and Replay</a></td>
     <td>&ensp;<a href="#placeholder"></a></td>
 </tr>
 
