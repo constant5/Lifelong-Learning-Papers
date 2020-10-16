@@ -72,13 +72,9 @@ Contributed by Constant Marks.
 
 #### These may be further divided into architectural, functional, and structural (see Zenke et al.)
 
-1. **Learning without Forgetting**  IEEE Transactions on Pattern Analysis and Machine Intelligence 2018.
+#### **Architectural**
 
-&emsp;&emsp;&emsp;*Li, Z. & Hoiem, D* [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8107520)
-
-1. **Less-forgetting learning in deep neural networks.** AAAI 2018.
-
-&emsp;&emsp;&emsp;*Jung, H. et al.* [paper](https://arxiv.org/pdf/1607.00122)
+*alter architecture to reduce interference between tasks (w/o altering the objective function) i.e. freezing certain weights, reducing lr for shared layers, using different nonlinearities, injecting noise, save and copy*
 
 1. **CNN features off-the-shelf: An astounding baseline for recognition** CVPR 2014. 
 
@@ -88,6 +84,23 @@ Contributed by Constant Marks.
 
 &emsp;&emsp;&emsp;*Donahue, J. et al.* [paper](http://www.jmlr.org/proceedings/papers/v32/donahue14.pdf) 
 
+#### **Functional**
+
+*add a regularization term to the objective function that penalizes changes from old to new*
+
+1. **Learning without Forgetting**  IEEE Transactions on Pattern Analysis and Machine Intelligence 2018.
+
+&emsp;&emsp;&emsp;*Li, Z. & Hoiem, D* [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8107520)
+
+1. **Less-forgetting learning in deep neural networks.** AAAI 2018.
+
+&emsp;&emsp;&emsp;*Jung, H. et al.* [paper](https://arxiv.org/pdf/1607.00122)
+
+
+### **Structural**
+*penalty on the parameters to encourage them to stay close to values for old task* 
+
+
 1. **Overcoming catastrophic forgetting in neural networks.** PNAS 2017 TNN 1997. 
 
 &emsp;&emsp;&emsp;*Kirkpatrick, J. et al.* [paper](https://www.pnas.org/content/pnas/114/13/3521.full.pdf)
@@ -95,6 +108,7 @@ Contributed by Constant Marks.
 1. **Continual learning through synaptic intelligence.** ICML 2017.
 
 &emsp;&emsp;&emsp;*Zenke, F., Poole, B. & Ganguli, S.* [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6944509/)
+
 
 ### [Regularization Approach +](#content) 
 
