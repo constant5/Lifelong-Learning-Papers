@@ -70,6 +70,8 @@ Contributed by Constant Marks.
 
 ### [Regularization Approach](#content)
 
+#### These may be further divided into architectural, functional, and structural (see Zenke et al.)
+
 1. **Learning without Forgetting**  IEEE Transactions on Pattern Analysis and Machine Intelligence 2018.
 
 &emsp;&emsp;&emsp;*Li, Z. & Hoiem, D* [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8107520)
