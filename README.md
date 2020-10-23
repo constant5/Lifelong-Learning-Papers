@@ -8,12 +8,9 @@ Contributed by Constant Marks.
 <tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr> 
 <tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
 <tr>
-    <td>&emsp;<a href="#Lifelong-Learning-Models">2.1 Lifelong Learning Models</a></td>
-    <td>&emsp;<a href="#Regularization-Approach">2.2 Regularization Approach</a></td>
+    <td>&emsp;<a href="#Regularization-Approach">2.1 Regularization Approach</a></td>
 </tr>
-<tr>
-    <td>&emsp;<a href="#Regularization-Approach-+">2.3 Regularization Approach +</a></td>
-    <td>&ensp;<a href="#Dynamic-Architecture">2.4 Dynamic Architecture</a></td>
+    <td>&emsp;<a href="#Dynamic-Architecture">2.4 Dynamic Architecture</a></td>
 </tr>
 <tr>
     <td>&emsp;<a href="#Complementary-System-and-Replay">2.5 Complementary System and Replay</a></td>
@@ -74,7 +71,7 @@ Contributed by Constant Marks.
 
 #### **Architectural**
 
-*alter architecture to reduce interference between tasks (w/o altering the objective function) i.e. freezing certain weights, reducing lr for shared layers, using different nonlinearities, injecting noise, save and copy*
+*Alter architecture to reduce interference between tasks (w/o altering the objective function) i.e. freezing certain weights, reducing lr for shared layers, using different nonlinearities, injecting noise, save and copy. These techniques have the inherent feature that they do not forget previously acquired knowledge but they have little capability to adapt to new domains.* 
 
 1. **CNN features off-the-shelf: An astounding baseline for recognition** CVPR 2014. 
 
@@ -110,7 +107,7 @@ Contributed by Constant Marks.
 &emsp;&emsp;&emsp;*Zenke, F., Poole, B. & Ganguli, S.* [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6944509/)
 
 
-### [Regularization Approach +](#content) 
+### **Other**
 
 1. **Continuous learning in single-incremental-task scenarios.** arXiv 2018. 
 
